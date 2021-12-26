@@ -32,7 +32,7 @@ def get_info():
 
     Vid = dict(zip(list(References.keys()), INFO_List))
 
-    with open('vlon.json', 'w', encoding='utf8') as ditcu:
+    with open('medium.json', 'w', encoding='utf8') as ditcu:
         json.dump(Vid, ditcu, ensure_ascii=False)
     return(Vid)
 
