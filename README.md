@@ -13,6 +13,9 @@ Crawl data(Followers, Following, Members, Online) in socialnetworks:
 6. Medium
 
 # Install
+Before install, you need to download and install driver for browser because i
+use package **selenium**. You can follow in [here](https://pypi.org/project/selenium/)
+
 Clone this repo and install
 
 ```sh
