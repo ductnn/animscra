@@ -1,4 +1,4 @@
-from cranobra import (
+from animscra import (
     facebook,
     discord,
     medium,
